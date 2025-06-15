@@ -9,4 +9,4 @@ Official code for "PRS: Semi-Supervised Medical Image Segmentation via Patch-rep
 
 Our code is largely based on [SS-Net](https://github.com/ycwu1997/SS-Net). Thanks for these authors for their valuable work.
 
-This package is free for academic usage. For any problem concerning the code, please contact Prof. Dianlong You ([youdianlong@sina.com](mailto:youdianlong@sina.com)). This package was developed by Mingwei Zhang ([mingweizhang@stumail.ysu.edu.cn](mailto:mingweizhang@stumail.ysu.edu.cn)).
+This package is free for academic usage. For any problem concerning the code, please contact Prof. Dianlong You ([youdianlong@sina.com](mailto:youdianlong@sina.com)). This package was developed by Ximing Zhu ([hikikori@stumail.ysu.edu.cn](mailto:hikikori@stumail.ysu.edu.cn)).
